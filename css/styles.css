@@ -1,0 +1,29 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #edf7ff;
+}
+
+h1 {
+  font-family: 'Anaheim', sans-serif;
+  font-size: 3rem;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Anaheim', sans-serif;
+  font-size: 2rem;
+  padding-top: 1em;
+}
+
+h3 {
+  font-family: 'Anaheim', sans-serif;
+  font-size: 1.5rem;
+  padding-top: 1em;
+}
+
+.footer {
+  font-family: 'Anaheim', sans-serif;
+  padding-top: 4em;
+  padding-bottom: 2em;
+  text-align: center;
+}
